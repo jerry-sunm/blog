@@ -7,3 +7,4 @@ user 테이블, student 테이블을 join 해서 간단한 CRUD 기능 구현
 <img width="515" alt="_2021-01-07__11 26 19" src="https://user-images.githubusercontent.com/66250890/104697452-20da1f80-5753-11eb-9c0a-93f8aead56a2.png">
 
 # 데이터베이스
+![user_20210115_32_48](https://user-images.githubusercontent.com/66250890/104700637-d0b18c00-5757-11eb-88d8-a3de0bad6f19.png)
